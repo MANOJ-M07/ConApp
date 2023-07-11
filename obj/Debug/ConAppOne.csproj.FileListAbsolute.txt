@@ -1,0 +1,8 @@
+D:\simplilearn\day-2\ConAppOne\ConAppOne\bin\Debug\ConAppOne.exe.config
+D:\simplilearn\day-2\ConAppOne\ConAppOne\bin\Debug\ConAppOne.exe
+D:\simplilearn\day-2\ConAppOne\ConAppOne\bin\Debug\ConAppOne.pdb
+D:\simplilearn\day-2\ConAppOne\ConAppOne\obj\Debug\ConAppOne.csproj.AssemblyReference.cache
+D:\simplilearn\day-2\ConAppOne\ConAppOne\obj\Debug\ConAppOne.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-2\ConAppOne\ConAppOne\obj\Debug\ConAppOne.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-2\ConAppOne\ConAppOne\obj\Debug\ConAppOne.exe
+D:\simplilearn\day-2\ConAppOne\ConAppOne\obj\Debug\ConAppOne.pdb
